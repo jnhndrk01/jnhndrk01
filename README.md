@@ -3,19 +3,20 @@
 #### My name is Jan. Good to see you.
 
 
-- 🔭 I’m currently finishing my Computer Science degree at [Technische Universität Berlin](https://tu.berlin)
+- 🔭 I recently finished my Computer Science degree at [Technische Universität Berlin](https://tu.berlin)
+- 💼 Working for Hanseatic Bank as a Full-Stack Developer
 - ⚓️ At the moment I'm using these technologies:
   - 🖥 Frontend:
     - React.js, Bootstrap, HTML5, (S)CSS, JSON
   - 🚀 Backend:
-    - Node.js, Express.js, JWT, MongoDB, NGINX
+    - Node.js, Express.js, JWT, MongoDB, NGINX, PHP Laravel / Lumen
   - 🚜 Infrastructure:
-    - Linux, Docker, Docker-Compose, Jenkins, GH Actions, Azure, AWS, Hetzner Cloud
+    - Linux, Bash, Docker, Docker-Compose, Terraform, AWS, GH Actions
 - 🕖 Technologies I've used in the past:
   - Java, Spring, C, Vue.js, PHP, SQL
 - 🌱 I’m planning to learn these technologies next:
-    - Redis
-    - Elastic Search
+    - Golang
+    - Flutter
 - 📫 How to reach me: <a href="mailto:jnhndrk01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jnhndrk01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - ⚡ Fun fact: I'm also a music producer with about 100+ [songs on Spotify](https://open.spotify.com/playlist/0lnJUpwEAL1g0uOuQXd5K4?si=926ab06677cf46af). 
 
