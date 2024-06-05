@@ -8,13 +8,14 @@ I am a Software-Engineer from the very north of Germany. Most of my experience l
 
 - ⚓️ Here are some technologies I've utilized to some degree:
   - 🖥 Frontend:
-    - React.js, React Native, Vue.js
+    - React.js, React Native, Vue.js, Flutter
   - 🚀 Backend:
     - Node.js, Express.js, Nest.js, Laravel, Go Gin, Go Fiber, Spring Boot
   - 🚜 Infrastructure:
     - AWS, Azure, Serverless, Docker, Docker-Compose, Terraform, GH Actions
-- 🌱 I’m planning to learn these technologies next:
-  - Flutter
+- 🌱 I’m planning to have a look at these technologies next:
+  - Go + Htmx
+  - Full-Stack Dart
   - Rust
 - 📫 How to reach me: <a href="mailto:jnhndrk01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jnhndrk01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - ⚡ Fun fact: I'm also a music producer with about 100+ [songs on Spotify](https://open.spotify.com/playlist/0lnJUpwEAL1g0uOuQXd5K4?si=926ab06677cf46af).
